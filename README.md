@@ -1,2 +1,2 @@
 # DailyCode
-日常练习
+cpp日常练习
